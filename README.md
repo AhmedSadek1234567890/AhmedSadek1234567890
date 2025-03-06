@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @AhmedSadek1234567890
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Ahmed Sadek  
+🚀 **Mechatronics Engineer | Robotics Enthusiast | Embedded Systems Developer**  
 
-<!---
-AhmedSadek1234567890/AhmedSadek1234567890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests  
+- Robotics & Industrial Automation 🤖  
+- Embedded Systems & IoT 🌐  
+- AI & Machine Learning in Automation 🧠  
+- Semiconductor Industry & Electronics Manufacturing 🔬  
+- Angel Investing in Tech Startups 💰  
+
+## 🌱 Currently Learning  
+- Advanced Robotics & Control Systems 🎛️  
+- AI-powered Predictive Maintenance 🏭  
+- Data Science for Financial Markets 📊  
+
+## 💞️ Looking to Collaborate On  
+- Developing innovative robotic systems 🦾  
+- Designing smart embedded solutions 🚀  
+- AI-driven automation for industrial applications ⚙️  
+
+## 📫 How to Reach Me  
+- Email: **your.email@example.com**  
+- LinkedIn: [AhmedSadek](https://www.linkedin.com/in/yourprofile)  
+- GitHub: [AhmedSadek1234567890](https://github.com/AhmedSadek1234567890)  
+
+## 😄 Pronouns  
+He/Him  
+
+## ⚡ Fun Fact  
+I left university to build real-world solutions and now working towards revolutionizing robotics & automation! 🚀  
